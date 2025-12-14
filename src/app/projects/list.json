@@ -11,5 +11,17 @@
 		],
 		"github": "https://www.aoeb101la.top",
 		"npm": "https://www.aoeb101la.top"
+	},
+	{
+		"name": "驿月云邮局",
+		"year": 2025,
+		"image": "https://e.aoeb101la.top/assets/mail-CSokca-y.png",
+		"url": "https://e.aoeb101la.top",
+		"description": "Cloud Mail 是一个 Serverless 响应式邮箱服务，支持邮件发送，可部署到 Cloudflare 平台，降低服务器成本。",
+		"tags": [
+			"网站",
+			"邮箱",
+			"个人"
+		]
 	}
 ]
