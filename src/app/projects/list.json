@@ -23,5 +23,17 @@
 			"邮箱",
 			"个人"
 		]
+	},
+	{
+		"name": "番茄小说",
+		"year": 2025,
+		"image": "https://www.fanqienovel.com/logo.ico",
+		"url": "https://fanqienovel.com/author-page/4347941574677784",
+		"description": "闲暇之余的小说、短故事创作",
+		"tags": [
+			"小说",
+			"创作",
+			"文学"
+		]
 	}
 ]
